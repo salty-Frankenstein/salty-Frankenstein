@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=salty-Frankenstein&show_icons=true) 
+- Student, NJUCS
+- Functional Programming, now learning Haskell & F#
+- PLT & CG, too difficult for me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salty-Frankenstein&hide=javascript,html)
+<p align="left">
+<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api?username=salty-Frankenstein&show_icons=true">
+<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=salty-Frankenstein&hide=javascript,html">
+</p>
 
 <!--
 **salty-Frankenstein/salty-Frankenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
