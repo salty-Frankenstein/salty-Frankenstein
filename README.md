@@ -5,8 +5,8 @@
 - PLT & CG, too difficult for me
 
 <p align="left">
-<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api?username=salty-Frankenstein&show_icons=true&layout=compact">
-<img alt="githubstatus" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=salty-Frankenstein&hide=javascript,html,assembly">
+<img alt="githubstatus" height='230' src="https://github-readme-stats-sigma-five.vercel.app/api?username=salty-Frankenstein&show_icons=true&layout=compact">
+<img alt="githubstatus" height='230' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salty-Frankenstein&hide=javascript,html,assembly">
 </p>
 
 <!--
