@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Student, NJUCS
-- Functional Programming, now learning Haskell & F#
+- Student, NJUCS -> Science Tokyo PRG
+- Functional Programming, still learning Haskell & Agda
 - PLT & CG, too difficult for me
 
 <p align="left">
